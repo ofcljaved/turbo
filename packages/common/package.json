@@ -1,7 +1,12 @@
 {
   "name": "@repo/common",
   "exports": {
-    "./common": "./src/index.ts"
+    "./common": "./dist/index.js"
+  },
+  "scripts": {
+    "dev": "tsc -b && node dist/index.js",
+    "build": "tsc -b",
+    "start": "node dist/index.js"
   },
   "version": "1.0.0",
   "main": "index.js",
