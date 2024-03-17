@@ -1,6 +1,8 @@
 # EXPORT ERROR
 
-![](./export_error.mp4)
+https://github.com/ofcljaved/turbo/assets/66407522/05737266-f725-4f0b-99e1-3be1679e80ad
+
+
 
 While using tsc in the cohort we faced the issue that when we run
 
