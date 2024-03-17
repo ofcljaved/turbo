@@ -8,7 +8,7 @@ While using tsc in the cohort we faced the issue that when we run
 
 ```bash
   npm tsc -b
-  node dist/inde.js
+  node dist/index.js
 
   export const VALUE = "I'm BEST";
 ^^^^^^
