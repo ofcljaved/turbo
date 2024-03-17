@@ -1,0 +1,9 @@
+{
+  "name": "@repo/common",
+  "exports": {
+    "./common": "./src/index.ts"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
